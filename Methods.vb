@@ -412,6 +412,8 @@ Partial Public Class DotNet
         Dim framework3Key As String = "Microsoft\NET Framework Setup\NDP\v3.0\Setup"
         Dim framework35Key As String = "Microsoft\NET Framework Setup\NDP\v3.5"
         Dim framework4ClientKey As String = "Microsoft\NET Framework Setup\NDP\v4.0\Client"
+        'HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\NET Framework Setup\Full\v1.0.3705\1033\Microsoft .NET Framework Full v1.0.3705 (1033)
+        'HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\NET Framework Setup\NDP\v1.1.4322
 
         Dim RegWord1 As String = "Install"
         Dim RegWord11 As String = "Install"
